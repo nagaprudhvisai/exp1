@@ -1,5 +1,5 @@
 n=int(input("enter age"))
 if n>=18:
-    print("eligible")
+    print("eligible ")
 else:
     print("not eligible")
